@@ -23,7 +23,7 @@ menu.addEventListener("click",function(){
 		popup = 1;
 	}
 	else if (popup == 1){
-		control.style.bottom = "-135px";
+		control.style.bottom = "-160px";
 		popup = 0;
 	}
 });

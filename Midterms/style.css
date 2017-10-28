@@ -1,11 +1,11 @@
 #controls{
 	position: fixed;
 	width: 100px;
-	height: auto;
+	height: 150;
 	text-align: center;
 	left: 0px;
 	right: 0px;
-	bottom: -135px;
+	bottom: -160px;
 	margin: auto;
 	transition: 1s;
 	z-index: 999;
@@ -18,7 +18,7 @@
 }
 #menu{
 	position: absolute;
-	top: -25px;
+	top: -50px;
 	left: 0px;
 	right: 0px;
 	margin: auto;
