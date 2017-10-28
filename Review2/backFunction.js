@@ -62,3 +62,4 @@ keypadders.addEventListener("keydown",function(event){
 		center.style.backgroundPosition = horizontal + "% " + vertical + "%"
 	}
 });
+
